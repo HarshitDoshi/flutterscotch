@@ -4,7 +4,7 @@ During my summer holidays, in May 2019, I had my first taste of Flutter. Google 
 
 I decided to get my hands dirty with the craft of app development and Flutter seemed perfect. I started reading the official Flutter documentation and variious blogs.
 
-## Blogs
+### Blogs
 
 These are some of the blogs I read for anything related to Flutter. They are listed in no particular order.
 
